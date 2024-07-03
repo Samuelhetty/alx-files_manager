@@ -5,8 +5,7 @@
     "author": "Henrietta Onoge",
     "license": "MIT",
     "private": true,
-    "type": "module",
-    "main": "index.js",
+    "main": "server.js",
     "scripts": {
         "lint": "./node_modules/.bin/eslint",
         "lint-nt": "./node_modules/.bin/eslint.cmd",
