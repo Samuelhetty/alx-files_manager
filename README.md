@@ -19,7 +19,7 @@ Simple file management API that allows users to:
 Clone the repo
 
 ```
-git clone https://github.com/AjwadG/alx-files_manager.git
+git clone https://github.com/Samuelhetty/alx-files_manager.git
 ```
 
 Install required dependencies
